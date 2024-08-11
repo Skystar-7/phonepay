@@ -3,7 +3,7 @@ function App() {
 
 
   let data = {
-    name:"vikas",
+    name:"ambreen",
     amount:1,
     number:'9999999999',
     MID: 'MID' + Date.now(),
